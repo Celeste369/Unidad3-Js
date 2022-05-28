@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+  
+
+input[type=text],input[type=password]{
+    padding: 5px;
+    border: 1px solid #ccc;
+    
+  }
+
+#btn {
+    border: 1px solid black;
+    margin: 30px 50px;
+  }
+
+label {
+    padding: 5px 5px 5px;
+    display: inline-block;
+  }
